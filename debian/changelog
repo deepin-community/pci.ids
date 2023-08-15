@@ -1,3 +1,180 @@
+pci.ids (0.0~2023.07.30-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Tue, 01 Aug 2023 23:16:01 +0200
+
+pci.ids (0.0~2023.07.23-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Wrap and sort fields in debian/tests/control.
+
+ -- Guillem Jover <guillem@debian.org>  Sat, 29 Jul 2023 23:44:37 +0200
+
+pci.ids (0.0~2023.05.23-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Mon, 12 Jun 2023 23:18:46 +0200
+
+pci.ids (0.0~2023.04.11-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Remove patch, fixed upstream.
+
+ -- Guillem Jover <guillem@debian.org>  Sun, 07 May 2023 02:10:00 +0200
+
+pci.ids (0.0~2023.03.17-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Refresh patch.
+
+ -- Guillem Jover <guillem@debian.org>  Wed, 22 Mar 2023 23:56:31 +0100
+
+pci.ids (0.0~2023.02.23-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Refresh patch.
+
+ -- Guillem Jover <guillem@debian.org>  Sun, 26 Feb 2023 23:31:06 +0100
+
+pci.ids (0.0~2023.02.11-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Refresh patch.
+
+ -- Guillem Jover <guillem@debian.org>  Tue, 14 Feb 2023 03:08:36 +0100
+
+pci.ids (0.0~2023.01.26-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Refresh patch.
+
+ -- Guillem Jover <guillem@debian.org>  Sun, 29 Jan 2023 19:23:13 +0100
+
+pci.ids (0.0~2023.01.18-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Refresh patch.
+  * Change debian/patches Forwarded field value to the email address used.
+
+ -- Guillem Jover <guillem@debian.org>  Sun, 22 Jan 2023 22:52:46 +0100
+
+pci.ids (0.0~2023.01.14-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Refresh patch.
+  * Update copyright years.
+  * Add debian/patches metadata.
+
+ -- Guillem Jover <guillem@debian.org>  Mon, 16 Jan 2023 23:02:09 +0100
+
+pci.ids (0.0~2023.01.06-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Refresh patch.
+
+ -- Guillem Jover <guillem@debian.org>  Sat, 07 Jan 2023 22:49:03 +0100
+
+pci.ids (0.0~2022.12.19-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Refresh patch.
+  * Switch to Standards-Version 4.6.2 (no changes needed).
+
+ -- Guillem Jover <guillem@debian.org>  Sat, 24 Dec 2022 17:19:08 +0100
+
+pci.ids (0.0~2022.12.04-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Refresh patch.
+
+ -- Guillem Jover <guillem@debian.org>  Sun, 11 Dec 2022 23:09:21 +0100
+
+pci.ids (0.0~2022.11.30-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Refresh patch.
+
+ -- Guillem Jover <guillem@debian.org>  Sat, 03 Dec 2022 11:42:34 +0100
+
+pci.ids (0.0~2022.11.25-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Refresh patch.
+
+ -- Guillem Jover <guillem@debian.org>  Tue, 29 Nov 2022 00:08:27 +0100
+
+pci.ids (0.0~2022.11.19-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Refresh patch.
+
+ -- Guillem Jover <guillem@debian.org>  Thu, 24 Nov 2022 03:01:59 +0100
+
+pci.ids (0.0~2022.10.28-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Refresh patch.
+
+ -- Guillem Jover <guillem@debian.org>  Sat, 05 Nov 2022 00:35:57 +0100
+
+pci.ids (0.0~2022.10.22-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Refresh patch.
+
+ -- Guillem Jover <guillem@debian.org>  Wed, 26 Oct 2022 01:07:06 +0200
+
+pci.ids (0.0~2022.09.09-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Fix encoding issues in pci.ids. The database had characters encoded as
+    iso8859-15 as if they were utf-8.
+  * Restore copyright years in debian/copyright file.
+  * Add upstream metadata file.
+  * Add lintian overrides for false-positives.
+
+ -- Guillem Jover <guillem@debian.org>  Sun, 09 Oct 2022 19:32:17 +0200
+
+pci.ids (0.0~2022.08.07-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Thu, 18 Aug 2022 01:04:54 +0200
+
+pci.ids (0.0~2022.07.17-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Sun, 17 Jul 2022 13:33:45 +0200
+
+pci.ids (0.0~2022.07.05-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Fri, 08 Jul 2022 22:15:28 +0200
+
+pci.ids (0.0~2022.05.18-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Switch to Standards-Version 4.6.1 (no changes needed).
+
+ -- Guillem Jover <guillem@debian.org>  Fri, 01 Jul 2022 11:51:47 +0200
+
+pci.ids (0.0~2022.04.15-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Switch to Standards-Version 4.6.0 (no changes needed).
+
+ -- Guillem Jover <guillem@debian.org>  Tue, 19 Apr 2022 00:01:01 +0200
+
+pci.ids (0.0~2022.01.22-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Sat, 22 Jan 2022 22:14:51 +0100
+
 pci.ids (0.0~2021.08.22-1) unstable; urgency=medium
 
   * New upstream release.
