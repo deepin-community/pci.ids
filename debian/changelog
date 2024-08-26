@@ -1,3 +1,41 @@
+pci.ids (0.0~2024.06.23-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Mon, 22 Jul 2024 12:49:50 +0200
+
+pci.ids (0.0~2024.05.31-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Switch to Standards-Version 4.7.0 (no changes needed).
+
+ -- Guillem Jover <guillem@debian.org>  Wed, 19 Jun 2024 02:51:12 +0200
+
+pci.ids (0.0~2024.04.20-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Sun, 21 Apr 2024 20:44:27 +0200
+
+pci.ids (0.0~2024.04.11-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Tue, 16 Apr 2024 02:11:59 +0200
+
+pci.ids (0.0~2024.03.31-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Sat, 06 Apr 2024 20:41:41 +0200
+
+pci.ids (0.0~2024.02.02-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Update copyright years.
+
+ -- Guillem Jover <guillem@debian.org>  Thu, 07 Mar 2024 06:34:30 +0100
+
 pci.ids (0.0~2023.11.11-1) unstable; urgency=medium
 
   * New upstream release.
