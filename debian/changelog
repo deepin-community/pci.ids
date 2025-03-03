@@ -1,3 +1,9 @@
+pci.ids (0.0~2025.03.03-0deepin1) unstablerm; urgency=medium
+
+  * New upstream release.
+
+ -- xiangzelong <xiangzelong@deepin.org>  Mon, 03 Mar 2025 14:41:06 +0800
+
 pci.ids (0.0~2024.11.26-0deepin1) unstablerm; urgency=medium
 
   * New upstream release.
