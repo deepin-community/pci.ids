@@ -1,20 +1,124 @@
-pci.ids (0.0~2025.06.10-0deepin1) unstablerm; urgency=medium
+pci.ids (0.0~2026.04.09-1) unstable; urgency=medium
 
   * New upstream release.
 
- -- xiangzelong <xiangzelong@deepin.org>  Tue, 10 Jun 2025 17:24:00 +0800
+ -- Guillem Jover <guillem@debian.org>  Sat, 11 Apr 2026 12:44:38 +0200
 
-pci.ids (0.0~2025.03.03-0deepin1) unstablerm; urgency=medium
+pci.ids (0.0~2026.04.01-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Switch to Standards-Version 4.7.4 (no changes needed).
+
+ -- Guillem Jover <guillem@debian.org>  Wed, 01 Apr 2026 13:49:00 +0200
+
+pci.ids (0.0~2026.03.28-1) unstable; urgency=medium
 
   * New upstream release.
 
- -- xiangzelong <xiangzelong@deepin.org>  Mon, 03 Mar 2025 14:41:06 +0800
+ -- Guillem Jover <guillem@debian.org>  Sat, 28 Mar 2026 17:50:17 +0100
 
-pci.ids (0.0~2024.11.26-0deepin1) unstablerm; urgency=medium
+pci.ids (0.0~2026.03.16-1) unstable; urgency=medium
 
   * New upstream release.
 
- -- xiangzelong <xiangzelong@deepin.org>  Tue, 26 Nov 2024 11:23:05 +0800
+ -- Guillem Jover <guillem@debian.org>  Mon, 16 Mar 2026 09:57:39 +0100
+
+pci.ids (0.0~2026.03.08-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Sun, 08 Mar 2026 03:45:15 +0100
+
+pci.ids (0.0~2026.02.21-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Remove lintian overrides that no longer get emitted.
+
+ -- Guillem Jover <guillem@debian.org>  Sat, 21 Feb 2026 03:32:02 +0100
+
+pci.ids (0.0~2026.02.12-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Thu, 12 Feb 2026 23:14:59 +0100
+
+pci.ids (0.0~2026.01.31-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Switch to Standards-Version 4.7.3 (no changes needed).
+
+ -- Guillem Jover <guillem@debian.org>  Sun, 01 Feb 2026 05:07:58 +0100
+
+pci.ids (0.0~2025.12.16-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Wed, 17 Dec 2025 04:12:46 +0100
+
+pci.ids (0.0~2025.11.04-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Switch to debian/watch version 5.
+
+ -- Guillem Jover <guillem@debian.org>  Wed, 05 Nov 2025 01:10:58 +0100
+
+pci.ids (0.0~2025.07.11-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Remove «Rules-Requires-Root: no», which is the current default.
+  * Remove «Priority: optional», which is the current default.
+  * Remove obsolete Breaks and Replaces against pciutils.
+
+ -- Guillem Jover <guillem@debian.org>  Sun, 10 Aug 2025 15:00:16 +0200
+
+pci.ids (0.0~2025.06.09-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Fri, 20 Jun 2025 03:04:33 +0200
+
+pci.ids (0.0~2025.04.15-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Fri, 09 May 2025 10:34:51 +0200
+
+pci.ids (0.0~2025.03.09-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Switch to Standards-Version 4.7.2 (no changes needed).
+
+ -- Guillem Jover <guillem@debian.org>  Mon, 10 Mar 2025 11:17:39 +0100
+
+pci.ids (0.0~2025.02.12-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Sat, 15 Feb 2025 20:16:01 +0100
+
+pci.ids (0.0~2025.02.05-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Sun, 09 Feb 2025 03:40:08 +0100
+
+pci.ids (0.0~2025.01.27-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Mon, 03 Feb 2025 23:42:39 +0100
+
+pci.ids (0.0~2025.01.13-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Fri, 17 Jan 2025 09:37:28 +0100
+
+pci.ids (0.0~2024.11.25-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Sun, 01 Dec 2024 18:56:42 +0100
 
 pci.ids (0.0~2024.10.24-1) unstable; urgency=medium
 
